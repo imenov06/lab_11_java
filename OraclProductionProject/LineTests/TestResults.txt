@@ -1,0 +1,47 @@
+======== Производственный запуск ========
+Manufacturer : OracleProduction
+Serial Number: 5
+Date         : Sun Apr 20 16:53:26 MSK 2025
+Name         : Boombox
+Audio Spec   : WAV/Cassette
+Type         : AU (AUDIO)
+-----
+Manufacturer : OracleProduction
+Serial Number: 1
+Date         : Sun Apr 20 16:53:26 MSK 2025
+Name         : iPod Mini
+Audio Spec   : MP3
+Type         : AU (AUDIO)
+-----
+Manufacturer : OracleProduction
+Serial Number: 3
+Date         : Sun Apr 20 16:53:26 MSK 2025
+Name         : Portable DVD
+Monitor Type   : LCD
+Screen Resolution: 480p
+Refresh Rate     : 30 Hz
+Response Time    : 12 ms
+-----
+Manufacturer : OracleProduction
+Serial Number: 2
+Date         : Sun Apr 20 16:53:26 MSK 2025
+Name         : Sony Walkman
+Audio Spec   : AAC
+Type         : AU (AUDIO)
+-----
+Manufacturer : OracleProduction
+Serial Number: 4
+Date         : Sun Apr 20 16:53:26 MSK 2025
+Name         : Surface Tablet
+Monitor Type   : LED
+Screen Resolution: 2736x1824
+Refresh Rate     : 120 Hz
+Response Time    : 2 ms
+-----
+====== Конец производственного запуска ======
+
+======== Информация о сотруднике ========
+Employee Code        : нименов
+Encoded Department ID : None01
+====== Конец информации о сотруднике ======
+
